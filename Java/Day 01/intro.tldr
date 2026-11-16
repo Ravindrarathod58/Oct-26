@@ -52,19 +52,19 @@
 		},
 		{
 			"x": -9.278700892883261,
-			"y": -28.869630995910878,
+			"y": -8704.922388334573,
 			"z": 0.9937698906575977,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:32qiBSoONMDNfJXhvuJIu",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:oX0CIjkAG0M-B_if7Hb_R"
+				"shape:32qiBSoONMDNfJXhvuJIu"
 			],
-			"hoveredShapeId": "shape:oX0CIjkAG0M-B_if7Hb_R",
+			"hoveredShapeId": "shape:32qiBSoONMDNfJXhvuJIu",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -3342,6 +3342,80 @@
 										}
 									],
 									"text": "int n = 14; // 10"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "ceil → next round"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "floor → prev  "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "abs → absolute   negative > positive  * -1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "round → > 5 next < 5 prev"
 								}
 							]
 						},

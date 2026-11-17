@@ -1,0 +1,252 @@
+Que 1 : Write a C program to read age of person and check the person is eligible for vote or not using if-else.
+-------
+
+Sample input  : Enter your age: 20
+Sample output : You are eligible to vote.
+
+Sample input  : Enter your age: 16
+Sample output : You are not eligible to vote.
+
+
+==========================================================================================================
+
+Que 2 : Write a C program to find maximum between two numbers using if else.
+-------
+
+Sample input  : int a = 100, b = 200
+Sample output : 200
+
+
+==========================================================================================================
+
+Que 3 : Write a C program to find maximum between three numbers.
+-------
+
+Sample input  : int a = 100, b = 200, c = 300
+Sample output : 300
+
+
+==========================================================================================================
+
+Que 4 : Write a C program to check whether a number is negative, positive or zero.
+-------
+  
+Sample input  : int a = 10
+Sample output : possitive number
+
+Sample input  : int a = 0
+Sample output : zero
+
+Sample input  : int a = -2
+Sample output : negative number
+
+
+==========================================================================================================
+
+Que 5 : Write a C program to check whether a year is leap year or not.
+-------
+
+Sample input  : int year = 2020 || int year = 2000 || int year = 2004
+Sample output : leap year
+
+Sample input  : int year = 2001 || int year = 2006
+Sample output : not leap year
+
+
+==========================================================================================================
+
+Que 6 : Write a C program to check whether a character is alphabet or not.
+-------
+
+Sample input  : char ch = 'A';
+Sample output : Alphabet
+
+Sample input  : char ch = '9';
+Sample output : Not Alphabet
+
+
+==========================================================================================================
+
+Que 7 : Write a C program to input any alphabet and check whether it is vowel or consonant.
+-------
+
+Sample input  : char ch = 'A';
+Sample output : Vowel
+
+Sample input  : char ch = 'b';
+Sample output : Consonant
+
+
+==========================================================================================================
+
+Que 8 : Write a C program to input any character and check whether it is alphabet, digit or special character.
+-------
+
+Sample input  : char ch = 'A';
+Sample output : Alphabet
+
+Sample input  : char ch = '9';
+Sample output : Digit
+
+Sample input  : char ch = '@';
+Sample output : Special character
+
+
+==========================================================================================================
+
+Que 9 : Write a C program to check whether a character is uppercase or lowercase alphabet.
+-------
+
+Sample input  : char ch = 'A';
+Sample output : UpperCase
+
+Sample input  : char ch = 'b';
+Sample output : LoweCase
+
+
+==========================================================================================================
+Que 10:
+-------
+Write a C program to read  age of person and  check the person is eligible for marriage or not using if-else.
+	if user age is above 21 then eligible.
+Sample input  :
+                Enter your age: 21
+Sample output :  
+		you are eligible to marriage.
+
+Sample input  :
+		 Enter your age: 16
+Sample output :
+		 Sorry  are not eligible to marriage.
+
+==========================================================================================================
+Que 11:
+-------
+Write a C program to find the Next multiple and Previous multiple of 10.
+	Take two digit number from the user.
+	if the number last digit is less than 5 then find Previous multiple.
+	if the number last digit is greater than and equal to 5 then find Next multiple.
+
+Case 1:
+
+Input :
+	Enter a number : 43
+Output : 
+	Previous multiple : 40 
+
+Case 2:
+
+Input :
+	Enter a number : 68
+Output : 
+	Next multiple : 70 
+
+
+==========================================================================================================
+Que 11:
+-------
+Write a C program to check if a number entered by the user is divisible by 5 and 10.
+
+Input:
+	Enter a number: 50
+Output:
+	50 is divisible by both 5 and 10
+==========================================================================================================
+Que 12:
+-------
+
+Write a C program to classify the user based on their age:
+
+Age < 13: Child
+Age >= 13 and < 20: Teenager
+Age >= 20 and < 60: Adult
+Age >= 60: Senior
+Input:
+	Enter your age: 15
+Output:
+	You are a Teenager.
+==========================================================================================================
+Que 13:
+-------
+Write a C program to check if a number entered by the user is even or divisible by 3.
+
+Input:
+	Enter a number: 12
+Output:
+	12 is even and divisible by 3.
+
+==========================================================================================================
+Que 14:
+-------
+
+Write a C program to check whether a number entered by the user is a multiple of 7.
+
+Input:
+	Enter a number: 35
+Output:
+	35 is a multiple of 7.
+
+==========================================================================================================
+Que 15:
+-------
+Write a C program to check if a number is between two given numbers (inclusive).
+
+Input:
+	Enter two numbers (a and b): 10 20
+	Enter a number to check: 15
+Output:
+	15 is between 10 and 20.
+==========================================================================================================
+Que 16:
+-------
+Find the Smallest of Three Numbers
+Write a C program to find the smallest of three numbers entered by the user.
+
+Input:
+	Enter three numbers: 5 2 8
+Output:
+	The smallest number is 2.
+==========================================================================================================
+Que 17:
+-------
+Write a C program by taking one integer value from the user, if the given number's
+
+last digit is smaller than 5 then print the square of that number else print that 
+
+same number.
+
+
+
+Case-1:
+
+Enter a number : 12
+
+Output is :
+
+144
+
+
+
+Case 2 :
+
+Enter a number : 17
+
+Output is :
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

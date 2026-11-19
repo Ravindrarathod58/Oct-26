@@ -1,0 +1,126 @@
+Que 1 :
+--------
+Write a C program that asks the user to select a category (1: Fruits, 2: Vegetables) and then within each category, provides further options. The program should display the selected item based on the user's input using a nested switch statement.
+
+Category Options:
+
+1: Fruits
+2: Vegetables
+Under Fruits (Option 1):
+1: Apple
+2: Banana
+Under Vegetables (Option 2):
+1: Carrot
+2: Potato
+-> The program should first prompt the user to select a category.
+-> Based on the category selected, it should ask the user to choose an item within that category.
+-> The program should display the name of the selected item.
+
+Sample Input 1:
+	Select a category:
+	1: Fruits
+	2: Vegetables
+	1
+	Select fruit:
+	1: Apple
+	2: Banana
+	2
+Sample Output 1:
+	Banana
+
+===============================================================================================================
+Que 2:
+-------
+Write a C program that lets a student select their major (1: Science, 2: Arts, 3: Commerce). Then, within each major, the program should prompt the student to select a specific subject. Based on the selected major and subject, the program should print a bill for the course, including the tuition fee for that subject.
+
+Majors and Tuition Fees:
+	1: Science
+	2: Arts
+	3: Commerce
+1: Science
+	1: Physics - $500
+	2: Chemistry - $450
+	3: Biology - $400
+2: Arts
+	1: Literature - $300
+	2: History - $350
+	3: Psychology - $400
+3: Commerce
+	1: Economics - $350
+	2: Accounting - $400
+	3: Business Studies - $450
+Sample Input 1:
+	Select your major:
+	1: Science
+	2: Arts
+	3: Commerce
+	1
+	Select subject under Science:
+	1: Physics
+	2: Chemistry
+	3: Biology
+	2
+Sample Output 1:
+	You have selected: Science -> Chemistry
+	Your course fee is: $450
+
+====================================================================================================================
+Que 3 :
+--------
+Write a C program to take user Id as 1001 and Pasword as 1010. Ask the user to enter his id, if the id is valid 
+
+then ask the user to enter his password ,if the password is correct then print the name of the user, otherwise 
+
+the program will print incorrect Passoword and if the Id doesnot exits, the program will print Incorrect Id.
+
+develop this program by using Switch case.
+====================================================================================================================
+Que 4 :
+--------
+
+1. Problem Statement:
+Write a C program that takes a month number (1-12) as input from the user and prints the number of days in that month using a switch statement. 
+If the user enters a number outside the range of 1-12, the program should display an error message.
+
+2. Explanation:
+You need to use a switch statement to handle different cases for each month.
+For months with 31 days (January, March, May, July, August, October, December), display "31 days".
+For months with 30 days (April, June, September, November), display "30 days".
+For February (month 2), print "28 or 29 days (depending on leap year)" as February can have 28 or 29 days.
+For any invalid month number (not between 1 and 12), print "Invalid month number!".
+
+3. Additional Considerations:
+The program should handle user input and validate it using a switch-case structure.
+No need for a leap year calculation in this basic program, but mention that leap years affect February’s day count.
+
+
+Sample input_1  : 3
+Sample output_1 : 31 days
+
+Sample input_2  : 2
+Sample output_2 : 28 or 29 days (depending on leap year)
+
+Sample input_3  : 11
+Sample output_3 : 30 days
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

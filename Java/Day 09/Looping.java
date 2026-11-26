@@ -32,6 +32,7 @@ public class Looping {
 
         System.out.println("Eneter a number");
         int n = sc.nextInt();
+        // 7 -> 4
         while (n > 9) {
             int sum = 0;
             while (n != 0) {
